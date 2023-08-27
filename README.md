@@ -54,7 +54,7 @@
 </p>
 </br>
 
-### 🌱 I'm currently learning... / Last Projects
+### 🌱 I'm currently learning... 
 - GraphQL
 - Django
 - TypeScript
