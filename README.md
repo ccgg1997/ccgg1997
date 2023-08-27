@@ -1,4 +1,4 @@
-### Hi there (I love all about AI and ML)👋
+### Hi there 👋
 
 <p align="center">
     <img src="images/banner.png" alt="Banner">
