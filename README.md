@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://www.armadilloamarillo.com">
+    <img src="https://www.oyossoftware.com/userfiles/images/y1.jpg" alt="Banner">
+  </a>
+</p>
 
 <h3>
   🚀 Principal Stack
@@ -45,6 +50,7 @@
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
   <img src="https://img.shields.io/badge/Name.com-DE0C92?style=for-the-badge&logo=name-dot-com&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </p>
 </br>
 
