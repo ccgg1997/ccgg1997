@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-
     <img src="images/banner.png" alt="Banner">
-
 </p>
 
 <h3>
