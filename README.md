@@ -1,8 +1,9 @@
 ### Hi there 👋
+
 <p align="center">
-  <a href="https://www.armadilloamarillo.com">
-    <img src="https://www.oyossoftware.com/userfiles/images/y1.jpg" alt="Banner">
-  </a>
+
+    <img src="images/banner.png" alt="Banner">
+
 </p>
 
 <h3>
@@ -54,10 +55,10 @@
 </p>
 </br>
 
-### 🌱 I'm currently learning... 
+### 🌱 I'm currently learning...
+
 - GraphQL
 - Django
 - TypeScript
 - CleanCode and Hexagonal Architecture
-</br>
-
+  </br>
