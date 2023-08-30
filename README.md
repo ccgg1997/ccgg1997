@@ -61,6 +61,12 @@
 - CleanCode and Hexagonal Architecture
   </br>
 
+### 👷 Now I'm working in...
+
+- Go
+- ZincSearch
+  </br>
+
 ### Github Stats:
 
 <table>
