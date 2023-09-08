@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccgg1997&theme=radical&card_width=450em)](https://github.com/ccgg1997/ccgg1997/blob/main/README.md"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccgg1997&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccgg1997&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></td>
   </tr>
 </table>
 
